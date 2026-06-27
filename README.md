@@ -9,3 +9,5 @@ Programy/skrypty korzystające z tokena mają za zadanie w sposób inwidualny st
 - informować o bieżących sprawach z inwidualnym ustaleniem priorytetu
 - sprawnie konfigurować aukcje
 - oraz inne pomniejsze sprawy bieżące
+
+Testowa wersja web odnosi się do tych samych skryptów natomiast testowanych w architekturze webowej - bardziej dostepnej.
